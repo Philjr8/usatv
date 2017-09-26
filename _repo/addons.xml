@@ -14,20 +14,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.custom" name="Live" version="0.0.1" provider-name="PJR">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="repository.xbmc-israel" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">IPTV</summary>
-    <description lang="en">Free Live TV</description>
-    <platform>all</platform>
-  </extension>
-</addon>
     <addon id="repository.name" name="Your Addons Name" version="0.1.0" provider-name="Your Name">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
