@@ -20,9 +20,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Your Addons Name">
-            <info compressed="false">https://raw.githubusercontent.com/Philjr8/USA/master/repository.USA.zip/_repo/addon.xml</info>
-            <checksum>https://raw.githubusercontent.com/Philjr8/USA/master/repository.USA.zip/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Philjr8/USA/tree/master/repository.USA.zip</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Philjr8/usatv/master/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Philjr8/USA/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Philjr8/USA/master/_repo</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
